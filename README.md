@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects or any initiative that involves web applications and APIs.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/prajwal-a-b-4b3002252/).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love debugging code; it feels like solving puzzles!
+- ⚡ Fun fact: I love debugging code.
 
 <!---
 prajwal032004/prajwal032004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
