@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flask, API integration, and advanced Python concepts.
 - 💞️ I’m looking to collaborate on open-source projects or any initiative that involves web applications and APIs.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/prajwal-a-b-4b3002252/).
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him
 - ⚡ Fun fact: I love debugging code.
 
 <!---
