@@ -47,8 +47,6 @@
 
 # 📊 GitHub Stats
 <div align="center">
----
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=prajwal032004&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </div>
 
