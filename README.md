@@ -45,12 +45,12 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </div>
 
-# 📊 GitHub Stats
+# 📊 Language Used
+<!-- Top Languages -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal032004&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal032004&layout=compact&theme=radical" alt="top-languages" />
 </div>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<!-- Footer -->
+
 </div>
