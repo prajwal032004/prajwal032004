@@ -72,7 +72,7 @@ I build and ship full Flask apps — most are live, not just repos👇
 
 ---
 
-## `$ cat /etc/contact.conf`
+## Contact`
 
 <a href="https://www.linkedin.com/in/prajwal-a-bhandagi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
