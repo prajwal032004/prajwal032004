@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------
 👨‍💻 **About Me**<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="270" align="right">
-✨ CSE (AI & ML) Student @ JSS Academy of Technical Education, Bengaluru <br>
+✨ CSE (AI & ML) Graduate<br>
 ⚡ Check my ✨ [Portfolio](https://prajwalportfolio.pythonanywhere.com/) or 📄 [Resume](https://prajwalportfolio.pythonanywhere.com/cv)<br>
 📫 How to reach me: [Email](mailto:prajwalbhandagi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/prajwal-a-bhandagi/)<br>
 🛠️ Building Flask apps end-to-end — backend, frontend, and deployment.<br>
