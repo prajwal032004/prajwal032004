@@ -7,16 +7,15 @@
 <br clear="both"/>
 <br/>
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7F5AF0" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/prajwal-a-bhandagi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://prajwalportfolio.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/prajwalportfolio.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=7F5AF0" alt="Portfolio"/></a>
 
 <br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=prajwal032004&style=for-the-badge&color=7F5AF0&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/prajwal032004?style=for-the-badge&color=7F5AF0&labelColor=0D1117&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers"/>
-<a href="https://github.com/prajwal032004?tab=repositories&sort=stargazers" target="_blank"><img src="https://img.shields.io/badge/⭐_STARGAZERS-View_Repos-0D1117?style=for-the-badge&color=00D9FF" alt="Stargazers"/></a>
+<a href="https://github.com/prajwal032004?tab=repositories&sort=stargazers" target="_blank"><img src="https://img.shields.io/badge/⭐_STARGAZERS-View_Repos-00D9FF?style=for-the-badge" alt="Stargazers"/></a>
 
 </div>
 
@@ -52,7 +51,7 @@ I'm a Computer Science student who enjoys turning complex problems into clean, w
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
 <br/><br/>
 
@@ -77,10 +76,10 @@ I'm a Computer Science student who enjoys turning complex problems into clean, w
 <br/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
 <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 
 <br/><br/>
@@ -127,7 +126,7 @@ I'm a Computer Science student who enjoys turning complex problems into clean, w
 #### 🧮 Math-LLM Chatbot
 An AI-powered conversational assistant that solves and explains step-by-step math problems using an LLM-driven reasoning pipeline.
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/LLM-7F5AF0?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/LLM-7F5AF0?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 <a href="https://github.com/prajwal032004/math-llm-chatbot"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -137,7 +136,7 @@ An AI-powered conversational assistant that solves and explains step-by-step mat
 #### 📄 AI Resume Builder
 A smart resume builder that generates ATS-optimized resumes with AI-driven content suggestions and clean, exportable templates.
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/AI-00D9FF?style=flat-square&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/AI-00D9FF?style=flat-square"/>
 
 <a href="https://github.com/prajwal032004/ai-resume-builder"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -149,7 +148,7 @@ A smart resume builder that generates ATS-optimized resumes with AI-driven conte
 #### 🧭 CareerCompass
 A career guidance platform that recommends personalized career paths using data-driven insights and machine learning models.
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 <a href="https://github.com/prajwal032004/careercompass"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -252,10 +251,9 @@ Explore the rest of my work — including experiments, smaller utilities, and on
 
 ## 🤝 Connect With Me
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/prajwal-a-bhandagi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/prajwal032004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:your.email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://prajwalportfolio.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/prajwalportfolio.com-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
