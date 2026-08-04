@@ -93,7 +93,7 @@ I build and ship full Flask apps — most are live, not just repos👇
 </p>
 
 <p align="center">
-  Want to collaborate or hire? ⟶ <a href="mailto:prajwalbhandagi@gmail.com">Get in touch</a><br>
+  Want to collaborate? ⟶ <a href="mailto:prajwalbhandagi@gmail.com">Get in touch</a><br>
   <b>Show some ❤️ by starring some of the repositories!</b>
 </p>
 <br clear="both" />
